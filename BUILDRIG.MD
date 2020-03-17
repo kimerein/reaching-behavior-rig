@@ -5,6 +5,7 @@
 3. Laser cut .ai files. Note that the pellet presenter wheel has raster engraved sections (black fill). For all other lines (red), cut all the way through the acrylic sheet.
 4. NOTE: Build the two halves of the behavior rig separately. We will then attach these two pieces to the box frame. Build: A. Pellet Disks Apparatus and B. Mouse House Apparatus on two separate breadboards. (This separation prevents transmission of the stepper motor vibrations to the mouse.) Optional: 3rd micrometer for up-down movement of mouse. Note that this rig could be built excluding all the micrometers (to save money), but I prefer to include at least 2 micrometers to increase positioning flexibility. 
 <img src="./photos/IMG_3734.JPG" alt="drawing" width="200"/>
+
 [Two halves of rig from above](./photos/IMG_3734.JPG)
 5. **BUILD PELLET DISKS APPARATUS**
 6. Assemble raised micrometer platforms. Use appropriate Thorlabs posts and post holders to ensure that the height of Pellet Disks Apparatus matches the height of Mouse House Apparatus. 
