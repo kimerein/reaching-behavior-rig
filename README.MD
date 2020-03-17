@@ -3,6 +3,7 @@ The food pellets are positioned in front of the mouse by an apparatus containing
 The mouse sits in the "mouse house" or mouse enclosure to access the food pellets. 
 There is a gap between the "mouse house" and the mechanism that presents food pellets, so the mouse has to reach for the food pellet with the forelimb and forepaw.
 Pellet orientation is not controlled during loading or pellet presentation to the mouse. 
+The rig is designed to maneuver 20 mg food pellets. 
 
 # FAQs
 
@@ -28,6 +29,8 @@ Second, mis-loading of pellets does occur. This occurs for about 1 in 50 pellets
 Third, jammed pellets are infrequent, but this does occur. Usually, I observe jammed pellets only when a screw is loose or a rig component is improperly positioned.
 The rig requires periodic maintenance.
 Note that commercial food hoppers (pellet dispensers) do exist. 
+* **Food pellets**
+This rig was designed to dispense 20 mg food pellets from Bio-Serv (e.g., F05301).
 
 
 # Parts List
