@@ -25,7 +25,7 @@ Building this rig based on these materials requires a decent understanding of Ar
 This rig works well for my needs. I run this rig for 5 hours per day without jammed pellets. 
 However, there are several caveats.
 First, the rig does not work well unless all components are exactly properly positioned and very well-secured.
-Second, mis-loading of pellets does occur. This occurs for about 1 in 50 pellets (e.g., pellet not in the proper position when presented to the mouse or pellet missing).
+Second, mis-loading of pellets does occur. This occurs for about 1 in 50 pellets (e.g., pellet is not in the proper position when presented to the mouse or pellet is missing).
 Third, jammed pellets are infrequent, but this does occur. Usually, I observe jammed pellets only when a screw is loose or a rig component is improperly positioned.
 The rig requires periodic maintenance.
 Note that commercial food hoppers (pellet dispensers) do exist. 
@@ -43,10 +43,15 @@ I use the other components for other features.
 ## Notes on 3D-printed parts
 
 These are the 3D-printed parts:
+
 [Pellet loader container](./parts/pellet_loader_container.stl)
+
 [Pellet loader conical piece](./parts/pellet_loader_conical_piece.stl)
+
 [Chute and blocker (these two mechanisms are combined into one piece)](./parts/chute_and_blocker.stl)
+
 [Perch rings to fit around ThorLabs posts](./parts/perch_rings.stl)
+
 [Perch middle piece, where mouse's forepaws rest, should be cut to correct size and fit into 2 perch rings](./parts/perch_connector.stl)
 
 I've also included the .ipt versions of these .stl files, in case you want to modify the designs with CAD.
@@ -55,9 +60,12 @@ I printed these pieces using Black V4 resin on a Form 2 FormLabs printer, but ot
 
 ## Notes on laser-cut parts
 
-These are the parts cut out of acrylic sheets:
+These are the parts cut out of acrylic sheets, saved as Adobe Illustrator files:
+
 [One file including all of the parts to be cut from 1/8 inch black acrylic](./parts/behaviorBox_with_pellet_presenter.ai)
+
 [Pellet presenter wheel alone](./parts/pellet_presenter_wheel.ai)
+
 [Pellet loader parts to be cut from 1/16 inch clear acrylic](./parts/loader_two_plastic_parts.ai)
 
 Note that the pellet presenter wheel has raster engraving (black filled sections). All other lines indicate clean cuts through the acrylic.

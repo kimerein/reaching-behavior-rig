@@ -1,11 +1,13 @@
 # Building Reaching Rig
 
+<img src="./photos/image(7).jpeg" alt="drawing" width="200"/>
+
 1. Build frame (McMaster Aluminum T-Slotted Framing Extrusion, see Materials List for sizes). 
 2. 3D print .stl files. I used Black V4 resin with a FormLabs 2 printer, but other printers and resins should work.
 3. Laser cut .ai files. Note that the pellet presenter wheel has raster engraved sections (black fill). For all other lines (red), cut all the way through the acrylic sheet.
 4. NOTE: Build the two halves of the behavior rig separately. We will then attach these two pieces to the box frame. Build: A. Pellet Disks Apparatus and B. Mouse House Apparatus on two separate breadboards. (This separation prevents transmission of the stepper motor vibrations to the mouse.) Optional: 3rd micrometer for up-down movement of mouse. Note that this rig could be built excluding all the micrometers (to save money), but I prefer to include at least 2 micrometers to increase positioning flexibility. 
 [Two halves of rig from above](./photos/IMG_3734.JPG)
-5. ** BUILD PELLET DISKS APPARATUS **
+5. **BUILD PELLET DISKS APPARATUS**
 6. Assemble raised micrometer platforms. Use appropriate Thorlabs posts and post holders to ensure that the height of Pellet Disks Apparatus matches the height of Mouse House Apparatus. 
 [Raised micrometer](./photos/micrometer.jpeg)
 7. Build mechanism to present food pellets. These plastic disks maneuver the food pellets. (Think: lazy susan.) There are 2 circular plastic disks. Each is secured to a stepper motor, which enables the disk to spin. The first (smaller) disk presents food pellets to the mouse. The second (larger) disk loads food pellets onto the first (smaller) disk. I call this first disk the “pellet presenter wheel”, and I call the second disk the “loader wheel”. Attach each circular disk to the top of a stepper motor shaft: Hold the plastic disk in place with quick-drying glue (e.g., Loctite/Zipkicker catalyst), then further secure this attachment for permanent hold using dental cement. There is a 3D-printed piece that  mates the “loader wheel” (plastic disk with 50 holes around the edge) to the stepper motor shaft. The “loader wheel” (plastic wheel) sits on the top of this 3D-printed piece. 
