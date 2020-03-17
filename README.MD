@@ -38,7 +38,7 @@ This rig was designed to dispense 20 mg food pellets from Bio-Serv (e.g., F05301
 Only the top 2 sections of this list, "Components for maneuvering pellets" and "Arduino components", contain components required to build the behavior rig.
 I use the other components for other features.
 
-[Parts List](./parts_list.html)
+[Parts List](./parts_list.csv)
 
 ## Notes on 3D-printed parts
 
