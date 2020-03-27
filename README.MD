@@ -5,7 +5,7 @@ There is a gap between the "mouse house" and the mechanism that presents food pe
 Pellet orientation is not controlled during loading or pellet presentation to the mouse. 
 The rig is designed to maneuver 20 mg food pellets. 
 
-# FAQs
+# Useful Info. and Answers to FAQs
 
 * **This is for scientists.**
 * **This is a behavior rig that presents food pellets to a mouse.**
@@ -32,6 +32,10 @@ Note that commercial food hoppers (pellet dispensers) do exist.
 * **Food pellets**
 This rig was designed to dispense 20 mg food pellets from Bio-Serv (e.g., F05301).
 
+# Contributors
+
+https://github.com/kimerein/
+https://github.com/marciiadarola/
 
 # Parts List
 
